@@ -1,0 +1,8 @@
+.myclass{
+  text-align: center;
+  font-size: 30px;
+  font-family: cursive;
+  /* text-decoration-color: aquamarine; */
+  font-family: sans-serif;
+  text-shadow: 0 0 rgb(0, 0, 0);
+}
